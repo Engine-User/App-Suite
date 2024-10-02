@@ -159,7 +159,7 @@ def app_suite_page():
     create_app_tile(
         "Direct Email",
         "images/directemail_image.jpeg",
-        "Send emails directly from the app",
+        "Draft entire emails with your personal touch",
         "Python, Langchain, Streamlit, Selenium, Scikit-Learn, Pandas, OpenAI",
         "https://directemail.streamlit.app"
     )
